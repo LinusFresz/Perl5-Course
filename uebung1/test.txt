@@ -1,0 +1,7 @@
+The usage of umlauts in metal band names has led to
+the curious english dictionary word "röck döts".
+
+Many characters differ in encoding between Latin1
+and UTF8. This ranges from greek letters (if even
+possible, see µ) to umlauts (äöüÄÖÜ) and accented 
+letters.
